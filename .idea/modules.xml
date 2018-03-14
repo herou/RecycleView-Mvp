@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecycleViewMvp1.iml" filepath="$PROJECT_DIR$/RecycleViewMvp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecycleView-Mvp1.iml" filepath="$PROJECT_DIR$/RecycleView-Mvp1.iml" />
+      <module fileurl="file://C:\Users\Eljo\StudioProjects\RecycleView-Mvp1\RecycleViewMvp1.iml" filepath="C:\Users\Eljo\StudioProjects\RecycleView-Mvp1\RecycleViewMvp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Eljo\StudioProjects\RecycleView-Mvp1\app\app.iml" filepath="C:\Users\Eljo\StudioProjects\RecycleView-Mvp1\app\app.iml" />
     </modules>
   </component>
 </project>
